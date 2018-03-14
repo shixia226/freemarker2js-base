@@ -1,13 +1,13 @@
 {
   "name": "freemarker2js-base",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "freemarker2js base",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "shixia",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shixia226/freemarker2js-base.git"
